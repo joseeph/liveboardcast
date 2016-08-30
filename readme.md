@@ -2,4 +2,4 @@ this is web app project which aims to collect infos and provide links of anchor 
 
 ###tech include: 
 -backend: express + node-webcrawler 
--front-end: vuejs
+-front-end: vuejs 
